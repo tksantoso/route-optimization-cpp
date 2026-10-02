@@ -1,0 +1,6 @@
+#### `.gitignore`
+```text
+*.o
+*.exe
+otimizador_rotas
+.vscode/
